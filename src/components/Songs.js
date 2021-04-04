@@ -5,7 +5,7 @@ const Songs = () => {
         <div className="song-container">
             <h1>pictures</h1>
             <h1>song name</h1>
-            <h2>artists</h2>
+            <h1>artists</h1>
         </div>
     )
 }
